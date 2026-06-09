@@ -1,2 +1,2 @@
-# voltruck.github.io
+# voltruck
 Scanner Dump Truck presision
